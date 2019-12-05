@@ -1,5 +1,4 @@
 Project Name: AirBuddies
-Group: Hardik Manek, Niroj Shrestha,Deep Shah
 
 1st page - Sign up and Login page. This page is connected to Firebase which is server provided by Google. Authentication is done with the help of this page.
 Testing Steps: 
