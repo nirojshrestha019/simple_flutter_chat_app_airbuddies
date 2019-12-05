@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "890593232114",
+    "firebase_url": "https://chatappexample-416c4.firebaseio.com",
+    "project_id": "chatappexample-416c4",
+    "storage_bucket": "chatappexample-416c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890593232114:android:24aa3f85f4620dd3e67c6b",
+        "android_client_info": {
+          "package_name": "com.example.chat_app_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890593232114-stmhjvca99i0vp3j3kf2nsm9t9igo0hq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp_SCd1LtgK334mFE0PA84GK_3s9yBSwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890593232114-stmhjvca99i0vp3j3kf2nsm9t9igo0hq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
