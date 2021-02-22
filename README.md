@@ -1,4 +1,6 @@
 # Project Name: AirBuddies
+Airport Buddies is a mobile application based on flutter which connects travelers having layovers at the same airport within that time. Here travelers will be matched based on common layover time. And they can chat or meet, and make some new friends and spend quality time in terminals instead of getting bored alone.
+
 
 1st page - Sign up and Login page. This page is connected to Firebase which is server provided by Google. Authentication is done with the help of this page.
 Testing Steps: 
